@@ -13,6 +13,7 @@ public class TestRemove {
         for(int i=0;i<listB.size();i++){
             if (listB.get(i).equals("2")){
                 listB.remove(i);
+//                i--;
             }
         }
         for(String temp:listB){
