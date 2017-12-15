@@ -40,12 +40,12 @@ public class ConnectionTest {
 		TestThread test2 = new TestThread("test2",channel);
 		TestThread test3 = new TestThread("test3",channel);
 		TestThread test4 = new TestThread("test4",channel);
-		TestThread test5 = new TestThread("test4",channel);
-		TestThread test6 = new TestThread("test4",channel);
-		TestThread test7 = new TestThread("test4",channel);
-		TestThread test8 = new TestThread("test4",channel);
-		TestThread test9 = new TestThread("test4",channel);
-		TestThread test0 = new TestThread("test4",channel);
+		TestThread test5 = new TestThread("test5",channel);
+		TestThread test6 = new TestThread("test6",channel);
+		TestThread test7 = new TestThread("test7",channel);
+		TestThread test8 = new TestThread("test8",channel);
+		TestThread test9 = new TestThread("test9",channel);
+		TestThread test0 = new TestThread("test0",channel);
 		
 		
 		test1.start();
